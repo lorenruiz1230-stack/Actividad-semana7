@@ -1,0 +1,8 @@
+pregunta=1
+rest=B
+pregunta=2
+rest=B
+pregunta=3
+rest=B
+pregunta=4
+rest=B

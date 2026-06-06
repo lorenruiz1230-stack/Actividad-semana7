@@ -1,0 +1,24 @@
+{
+  "name": "actividad-semana7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenruiz1230-stack/Actividad-semana7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lorenruiz1230-stack/Actividad-semana7/issues"
+  },
+  "homepage": "https://github.com/lorenruiz1230-stack/Actividad-semana7#readme",
+  "dependencies": {
+    "espress": "^0.0.0"
+  }
+}
